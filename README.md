@@ -1,4 +1,4 @@
-# Cartes de Révision TOEIC
+# Cartes de Révision
 
 Cette application Streamlit permet de créer, consulter et exporter des cartes de révision.
 
